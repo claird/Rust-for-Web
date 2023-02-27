@@ -28,6 +28,8 @@ topic of Rust's use in Web service sorted in broad architectural terms.
 
 [Explanation here.]
 
+Sascha Grunert supplies a [complete small authentication demonstration](https://github.com/saschagrunert/webapp.rs/tree/rev1).
+
 ## Firefox Quantum Web browser
 
 [Explanation here.]
