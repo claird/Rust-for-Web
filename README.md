@@ -32,7 +32,8 @@ Andrew Lader has a [47-line "Simple HTTP Server in Rust"](https://gist.github.co
 
 Sascha Grunert supplies a [complete small authentication demonstration](https://github.com/saschagrunert/webapp.rs/tree/rev1).
 
-[Actix](https://actix.rs/) is "... a powerful, pragmatic, and extremely fast web framework for Rust."
+[Actix](https://actix.rs/) is "... a powerful, pragmatic, and extremely fast web framework for Rust."  It requires, for example, a fortieth
+(!) the memory of a comparable Django instance.
 
 ## Firefox Quantum Web browser
 
