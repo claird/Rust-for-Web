@@ -10,6 +10,7 @@ topic of Rust's use in Web service sorted in broad architectural terms.
 - Static Web sites generated with Rust
 - Rust-oriented Web application service
 - Firefox Quantum Web browser
+- Locuses of Rust intelligence
 
 ## Simplest possible Web service with base Rust
 
@@ -30,3 +31,7 @@ topic of Rust's use in Web service sorted in broad architectural terms.
 ## Firefox Quantum Web browser
 
 [Explanation here.]
+
+## Locuses of Rust intelligence
+
+[Explain r/rust, Discord chat, ...]
