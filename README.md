@@ -16,7 +16,7 @@ topic of Rust's use in Web service sorted in broad architectural terms.
 
 [Explanation here.]
 
-Andrew Lader has a [47-line "Simple HTTP Server in Rust"](https://gist.github.com/andrewlader/df0e1a52fd4a842c6110d28cf1b281a1#file-main-http-rs).  [Provide usage for those utterly unfamiliar with Rust.]  Comparable implementations in Go fill fewer than thirty lines, and in Python or Ruby line counts are between fifteen and two dozen.
+Andrew Lader has a [47-line "Simple HTTP Server in Rust"](https://gist.github.com/andrewlader/df0e1a52fd4a842c6110d28cf1b281a1#file-main-http-rs).  [Provide usage for those utterly unfamiliar with Rust.]  Comparable implementations in Go fill fewer than thirty lines, and in Python or Ruby line counts are between fifteen and two dozen [provide references].  Lader supplies more detail in "[Should I Rust, or Should I Go](https://codeburst.io/should-i-rust-or-should-i-go-59a298e00ea9)"
 
 ## Rust CGI
 
