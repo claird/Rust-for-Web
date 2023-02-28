@@ -14,9 +14,7 @@ topic of Rust's use in Web service sorted in broad architectural terms.
 
 ## Simplest possible Web service with base Rust
 
-[Explanation here.]
-
-Andrew Lader has a [47-line "Simple HTTP Server in Rust"](https://gist.github.com/andrewlader/df0e1a52fd4a842c6110d28cf1b281a1#file-main-http-rs).  [Provide usage for those utterly unfamiliar with Rust.]  Comparable implementations in Go fill fewer than thirty lines, and in Python or Ruby line counts are between fifteen and two dozen [provide references].  Lader supplies more detail in "[Should I Rust, or Should I Go](https://codeburst.io/should-i-rust-or-should-i-go-59a298e00ea9)".
+Andrew Lader has a [47-line "Simple HTTP Server in Rust"](https://gist.github.com/andrewlader/df0e1a52fd4a842c6110d28cf1b281a1#file-main-http-rs).  [Provide usage for those utterly unfamiliar with Rust.]  Comparable implementations in Go fill fewer than thirty lines, and in Python or Ruby line counts are between fifteen and two dozen [provide references].  Lader supplies more detail in "[Should I Rust, or Should I Go](https://codeburst.io/should-i-rust-or-should-i-go-59a298e00ea9)".  [On "other side", refer to C-coded example.]
 
 ## Rust CGI
 
@@ -33,7 +31,7 @@ Andrew Lader has a [47-line "Simple HTTP Server in Rust"](https://gist.github.co
 Sascha Grunert supplies a [complete small authentication demonstration](https://github.com/saschagrunert/webapp.rs/tree/rev1).
 
 [Actix](https://actix.rs/) is "... a powerful, pragmatic, and extremely fast web framework for Rust."  It requires, for example, a fortieth
-(!) the memory of a comparable Django instance.
+(!) the memory of a comparable [Django](https://www.djangoproject.com/) instance.
 
 ## Firefox Quantum Web browser
 
